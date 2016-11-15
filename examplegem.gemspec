@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Examplegem::VERSION
   s.authors     = ["hunterlong"]
   s.email       = ["info@socialeck.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Examplegem."
-  s.description = "TODO: Description of Examplegem."
+  s.homepage    = %q{TODO: Write a gem description}
+  s.summary     = %q{TODO: Write a gem description}
+  s.description = %q{TODO: Write a gem description}
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
