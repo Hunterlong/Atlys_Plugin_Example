@@ -1,3 +1,3 @@
 module Examplegem
-  # Your code goes here...
+  require 'examplegem/engine'
 end

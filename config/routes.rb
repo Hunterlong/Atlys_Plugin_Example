@@ -1,5 +1,3 @@
 Rails.application.routes.draw do
-  isolate_namespace Examplegem
-  mount Examplegem::Engine => "/examplegem"
-  root to: "example#index"
+  match 'example' => 'examplegem/example#index'
 end
