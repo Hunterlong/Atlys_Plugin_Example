@@ -1,0 +1,3 @@
+module Examplegem
+  # Your code goes here...
+end
