@@ -9,14 +9,13 @@ Gem::Specification.new do |s|
   s.version     = Examplegem::VERSION
   s.authors     = ["hunterlong"]
   s.email       = ["info@socialeck.com"]
-  s.homepage    = %q{TODO: Write a gem description}
-  s.summary     = %q{TODO: Write a gem description}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = ""
+  s.summary     = "dsfds fsd fsdfdsf sdfds"
+  s.description = "none"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", ">= 5.0.0.rc2", "< 5.1"
 
-  s.add_development_dependency "sqlite3"
 end
