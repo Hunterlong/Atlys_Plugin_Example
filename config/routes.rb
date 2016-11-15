@@ -1,3 +1,3 @@
 Examplegem::Engine.routes.draw do
-  get 'example' => 'example#index'
+  match 'example' => 'examplegem/example#index', :via => [:get], :as => 'example_index'
 end
