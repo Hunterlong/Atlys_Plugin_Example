@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "TODO: Summary of Examplegem."
   s.description = "TODO: Description of Examplegem."
   s.license     = "MIT"
+  s.TODO	= "none"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
