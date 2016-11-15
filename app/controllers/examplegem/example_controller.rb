@@ -1,7 +1,7 @@
 module Examplegem
 
 	class ExampleController < ApplicationController
-		layout false
+		#layout false
 
 		def index
 
